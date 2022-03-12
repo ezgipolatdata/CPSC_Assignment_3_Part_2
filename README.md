@@ -9,5 +9,5 @@ In this report, we investigated the relationship between the survival rates of t
 ### How to Access The Dataset?
 The titanic dataset is included in the repository.
 
-### The Team Members
+### The Author
 Ezgi Polat
